@@ -1,1 +1,1 @@
-# habit_tracker
+Github like gym tracker
